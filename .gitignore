@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Spark
+metastore_db/
+derby.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Outputs grandes (opcional)
+output/*
+
+# Entornos
+.env
+.venv
+
+data/
